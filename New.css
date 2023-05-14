@@ -1,0 +1,42 @@
+.container{
+			display: flex;
+			flex-direction: row;
+			align-items: flex-start;
+			padding: 0px;
+			gap: 64px;
+			margin: 32px 64px;
+			justify-content: center;
+			}
+
+		.column-right{
+			width: 200px;
+			}
+		.column-left{
+			width: 900px;
+			}	
+			
+		/*.arba {text-align: left; vertical-align: bottom;}*/
+			
+		ul {margin: 0;
+			padding: 0;}
+			
+		ul li {list-style: none;
+				margin: 0 0 .44em 0;
+				/*padding-left: 30px;*/}
+		
+		body {font-family: Georgia, serif;
+	      font-size: 20px;
+	      line-height: 27px;}
+​
+		h3 {font-family: Helvetica Neue, sans-serif;
+			font-weight: bold;
+			margin: 0 0 .1em 0;}
+​
+		p {	margin: 0 0 .88em 0;}
+​
+		div {margin: 0 0 2em 0;}
+
+		img {display: block;
+			max-width: 100%;
+			height: auto;
+			margin-bottom: 2em;}
